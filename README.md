@@ -1,3 +1,3 @@
 # Personal-Website
 
-https://calvinschmei.ch/el
+https://blog.calvinschmei.ch/el/
